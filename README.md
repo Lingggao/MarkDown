@@ -58,6 +58,40 @@ int main()
 }
 ```
 
-2. 单句代码
+## 水平分割线
 
-这是一句代码： `int a = 5;`
+--- 
+您好
+*** 
+
+## HTML
+## <center>这一行需要居中</center>
+
+## 表格
+
+|你好|我是|Ling|
+|---|:---:|---:|
+|1|2|3|
+|4|5|6|
+|7|8|9|
+
+|Is Me|是我|
+|:---:|:---:|
+|01|02|
+|**加粗**|*斜体*|
+|![Surface Pro 7](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3NOmL?ver=c9b3&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true "Surface Pro 7")|[百度]|
+
+## Github Flvored Markdown
+
+### Task List
+
+- [ ] item1
+- [x] item2
+- [ ] item3
+
+### 笑脸
+
+:smile:
+:mouse:
+:wolf:
+
