@@ -21,10 +21,10 @@
 ### 有序列表
 1. 第一级 1
 2. 第一级 2
-  1. 第二级 1
-  2. 第二级 2
-    1. 第三级 1
-	1. 第三级 2
+	1. 第二级 1
+	2. 第二级 2
+		1. 第三级 1
+		2. 第三级 2
 
 ## 三、链接
 ### 外部链接
@@ -40,8 +40,8 @@
 ## 五、引用
 ### 引用
 > 这是一段引用  
-> 这也是  
-> 这个还是
+> 这个也是引用  
+> 这个还是引用
 ### 多级引用
 >>> 多重引用
 
@@ -68,7 +68,7 @@ int main()
 *** 
 
 ## 八、HTML 语法
-<center>居中本行</center>
+<center>居中本行</center> (Github 中似乎不行)
 
 ## 九、表格
 ### 文字表格
@@ -116,8 +116,9 @@ int main()
 ![WIP](https://answers.microsoft.com/static/resourceimages/categories/insider.svg "WIP")
 
 ### 图片链接
-[![](https://answers.microsoft.com/static/resourceimages/categories/insider.svg)](https://insider.windows.com/zh-cn/])
+[![](https://answers.microsoft.com/static/resourceimages/categories/insider.svg)](https://insider.windows.com/])
 
+---
 ### 感谢您的观看！
 ### Ling Gao (高楷修)
 # The end
