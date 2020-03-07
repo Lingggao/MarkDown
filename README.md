@@ -3,7 +3,7 @@
 > 师从 - Ding Wang 王顶
 
 ## 一、字体
-普通文字  
+普通文本  
 **加粗**  
 *斜体*  
 ***斜体加粗***  
@@ -29,7 +29,7 @@
 ## 三、链接
 ### 外部链接
 [必应](https://cn.bing.com)  
-### 内部链接
+### 引用链接
 [百度]
 
 [百度]: https://www.baidu.com
@@ -117,6 +117,11 @@ int main()
 
 ### 图片链接
 [![](https://answers.microsoft.com/static/resourceimages/categories/insider.svg)](https://insider.windows.com/])
+
+<!--
+注释
+部分
+-->
 
 ---
 ### 感谢您的观看！
